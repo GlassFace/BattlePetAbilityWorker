@@ -15,3 +15,5 @@ You need these files placed in the same folder as BattlePetAbilityWorker.jar:
 - BattlePetAbilityTurn.db2
 - BattlePetEffectProperties.db2
 - BattlePetState.db2
+
+![Screenshot](screenshot.PNG)
